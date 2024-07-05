@@ -1,0 +1,43 @@
+Assignment Instructions
+Welcome to your Python fundamentals assignment! The goal is to solidify your understanding of core concepts and practice applying them to solve problems. 
+How to Submit
+Code and complete: Work through each section, writing your Python code in py files
+Share: When finished, submit the assignment in google classroom.
+Important Notes
+Clarity: Strive for clean, well-organized code with comments where appropriate.
+Problem-solving: Don't be afraid to experiment! If you get stuck, consult documentation, online resources, or ask for guidance.
+Deadline: Please submit your completed assignment by (05/07/2024).
+Assignment Sections
+1. Data Types and Variables
+Task:
+Create variables to store the following data types: integer, float, string, boolean.
+Print the types of these variables using the type() function.
+Perform basic arithmetic operations (addition, subtraction, etc.) with the numerical variables.
+2. Control Flow (if/else)
+Task:
+Write a program that takes a number as input.
+Use an if/else statement to determine if the number is even or odd and print the result.
+3. Strings and Manipulation
+Task:
+Create a string variable containing a sentence.
+Use string methods to:
+Convert the sentence to uppercase and lowercase.
+Split the sentence into a list of words.
+Find the length of the sentence.
+Replace a specific word in the sentence with another word.
+4. Loops (for/while)
+Task:
+Use a for loop to iterate over the elements in a list of numbers and print each number multiplied by 2.
+Use a while loop to calculate the sum of numbers from 1 to 10.
+5. Lists and List Comprehensions
+Task:
+Create a list of your favorite fruits.
+Use a list comprehension to create a new list containing the lengths of each fruit.
+Append a new fruit to the original list.
+Sort the list alphabetically.
+6. Dictionaries
+Task:
+Create a dictionary to store information about a book (title, author, year).
+Access and print individual values from the dictionary.
+Add a new key-value pair to the dictionary (e.g., genre).
+Use a loop to iterate over the dictionary's items and print them.
